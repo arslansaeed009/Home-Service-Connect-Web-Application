@@ -33,11 +33,11 @@ npm start
 ## Usage:
 After starting the development server, open your browser and navigate to http://localhost:3000 to access the application.
 ## Technologies Used
-Frontend: React.js, HTML, CSS, JavaScript
-Backend: Node.js, Express.js
-Database: MongoDB
-Authentication: JSON Web Tokens (JWT)
-Deployment: [Hosting service used, e.g., Heroku, Vercel, etc.]
+- **Frontend: React.js, HTML, CSS, JavaScript**
+- **Backend: Node.js, Express.js**
+- **Database: MongoDB**
+- **Authentication: JSON Web Tokens (JWT)**
+- **Deployment: [Hosting service used, e.g., Heroku, Vercel, etc.]**
 
 
 
