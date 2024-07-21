@@ -39,6 +39,24 @@ After starting the development server, open your browser and navigate to http://
 - **Authentication: JSON Web Tokens (JWT)**
 - **Deployment: [Hosting service used, e.g., Heroku, Vercel, etc.]**
 
+## Contributing:
+We welcome contributions from the community! To contribute, please follow these steps:
+- **Fork the repository.**
+- **Create a new branch for your feature or bugfix.**
+- **Make your changes and commit them with descriptive messages.**
+- **Push your changes to your forked repository.**
+- **Create a pull request to the main repository.**
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+## Contact
+For any questions or suggestions, please contact us at [saeedarslan253@gmail.com].
+
+Thank you for using Home Service Connect Web Application!
+ ```sh
+
+Feel free to modify the content as needed to better fit your project's specifics.
+ ```
 
 
 
